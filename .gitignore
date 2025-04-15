@@ -1,0 +1,86 @@
+# Build results
+bin/
+obj/
+out/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider
+.idea/
+
+# VS Code
+.vscode/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Publish results
+publish/
+*.publish.xml
+
+# IIS
+.vs/
+*.dbmdl
+
+# Logs
+*.log
+
+# Secrets and credentials
+appsettings.*.json
+secrets.json
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.old
+*.orig
+*.cache
+*.swp
+
+# Test results
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+
+# NuGet
+*.nupkg
+packages/
+.nuget/
+project.lock.json
+project.fragment.lock.json
+
+# Entity Framework
+Migrations/
+
+# dotnet CLI
+project.assets.json
+project.nuget.cache
+
+# Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+# Mac OS
+.DS_Store
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Linux
+*.pid
+
+# JetBrains Rider & IDEs
+.idea/
+*.sln.iml
+
+# Others
+*.sqlite
+*.sqlite3
+*.db
